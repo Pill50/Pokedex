@@ -7,7 +7,7 @@ const Header = () => {
         <header className="w-full">
           <img
             className="w-1/3 ml-auto mr-auto"
-            src="http://tylerhawkins.info/pokedex-slash-graphql/build/static/media/pokemon-logo.9253c457.png"
+            src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/07/pokemon-gotta-catch-em-all-slogan.jpg"
             alt="header"
           />
         </header>
